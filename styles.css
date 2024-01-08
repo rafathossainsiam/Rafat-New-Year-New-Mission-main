@@ -1,0 +1,91 @@
+.header {
+    width: 1320px;
+    height: 600px;
+    margin: 0px auto;
+    margin-top: 50px;
+    overflow: hidden;
+    background-image: url(images/Banner\ Image.png);
+
+
+
+}
+
+.text {
+    color: #FFFFFF;
+    font-family: Merriweather;
+    margin: 150px auto;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.text-1 {
+    width: 250px;
+    height: 40px;
+    margin: 0px auto;
+    font-weight: 700;
+
+}
+
+.text-2 {
+    width: 632px;
+    height: 190px;
+    margin: 0px auto;
+}
+
+.text-3 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.text-4 {
+    text-align: center;
+    font-size: 72px;
+}
+
+.main-1 {
+    padding: 100px 0px;
+
+}
+
+.m1 h1 {
+    font-size: 80px;
+    width: 383px;
+    height: 110;
+    color: #FF0000;
+    margin: 0px auto;
+    padding: 100px auto;
+
+}
+
+.m2 p {
+    width: 400px;
+    height: 30px;
+    color: #FF0000;
+    font-size: 24px;
+    margin: 0px auto;
+    margin-top: 20px;
+
+}
+
+.m3 h2 {
+    width: 410px;
+    height: 60px;
+    font-size: 45px;
+    margin: 0 auto;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.main-2 {
+    border: 1px solid black;
+    background-image: url(images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+}
