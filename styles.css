@@ -83,19 +83,74 @@ img {
 }
 
 .main-2 {
-    border: 1px solid black;
-    /* background-image: url(images/Vectorrr.png); */
-    background-color: #FF0000;
+    background-image: url(images/Vectorrr.png);
     width: 1320px;
     height: 600px;
     justify-content: space-between; 
     margin: auto; 
     display: flex; 
     align-items: center;
+    
+
+
+} 
+.main-header{
+    color: #FFFFFF;
+    margin:20px 20px ;
+}
+
+.main-2-title{
+    font-size:64px ;
+    width: 640px;
+    height:176px ;
+
+}
+.main-2-contain{
+    font-size: 18px;
+    color: #FFFFFFCC;
+
+}
+.btn-button{
+    font-size: 20px;
 }
 img{
-    width: 320px;
-    height: 460px; 
+    width: 800px;
+    height: 460px;
+    padding-top: 20px ;
 
+}
+.Main-3{
+    width: 1320px ;
+    height:482px ;
+    background:linear-gradient(#eab5b5e7, #FF000000);
+    border: 1px solid white;
+    margin: 0px auto;
+    margin-top: 50px;
 
+}
+p{
+    color: #070211;
+    text-align: center;
+    font-size: 32px;
+    line-height: 20px;
+}
+.Main-3-text{
+    width:550px ;
+    height:250px ;
+    margin:100px auto ;
+}
+span{
+    color: #FF0000;
+}
+.btn-button{
+border-radius:8px ;
+margin-left:200px ;
+margin-top: 20px; 
+padding:16px 32px ;
+background: #FF0000;
+
+}
+.b1{
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
 }
